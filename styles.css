@@ -1,0 +1,21 @@
+.divtitle {
+    margin-top: 70px;
+    font-family: sans-serif;
+}
+.divtitle h1{
+    padding-top: 7px;
+}
+.divp{
+    margin-top: 50px;
+    text-align: left;
+    color:gainsboro;
+    font-family: sans-serif;
+    font-size: 1em;
+    max-width: 50%;
+    padding-right:50px;
+}
+.divpic{
+    float:right;
+    margin-top:-350px;
+    padding: 70px;
+}
